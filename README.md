@@ -1,7 +1,7 @@
 # Bouyahia Iheb
 ### Data Science & AI Engineering Student
 
-📍 Oran, Algeria (Open to Remote)  
+📍 Oran, Algeria 
 📧 bouyahia.iheb@gmail.com | 📞 +213 799 326 686  
 🔗 github.com/bouyahia-iheb
 
@@ -15,8 +15,6 @@ I focus on:
 - Matching & ranking systems  
 - Retrieval-Augmented Generation (RAG)  
 - Data-driven decision systems  
-
-🎯 Currently seeking a remote internship (ML / Data Science / AI Engineering).
 
 ---
 
