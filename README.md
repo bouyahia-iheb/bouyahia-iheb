@@ -54,9 +54,3 @@ I focus on:
 - English 
 - French 
 - Arabic 
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=bouyahia-iheb&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouyahia-iheb)
